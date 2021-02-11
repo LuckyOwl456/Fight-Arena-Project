@@ -1,1 +1,2 @@
 # Fight-Arena-Project
+[Version 0.1]This is a short little game I worked on in my free time, starting in February 2021. It's quite simple, but was made to get better at Python. The game makes much use of the dictionary feature in Python, primarily to store stats and equipment. Currently it is in a very basic state, and the bear enemy has not yet been developed. Development will likely continue in the following days.
